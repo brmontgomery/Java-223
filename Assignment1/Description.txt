@@ -1,0 +1,8 @@
+The goal of Assignment 1 was to implement a basic Payroll system. 
+
+The inputs of the application are the employee's name, hours worked, and pay rate.
+
+The outputs of the application are the:
+Owed pay to the employee for their normal hours worked (up to 40 hours), 
+Owed pay for their overtime hours (time and a half past 40 hours), 
+And their total owed pay for all hours worked.

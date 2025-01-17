@@ -1,0 +1,4 @@
+The goal of assignemnt 4 was to implement a game of cat and mouse. 
+
+In this game, the user chooses values for the speed and direction (in degrees) of the mouse in the hopes that it can run away from the cat.
+The cat always advances towards the current position of the mouse at a constant speed.

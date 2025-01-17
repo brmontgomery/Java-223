@@ -1,0 +1,3 @@
+The goal of assignment 4 was to simulate the collision physics of a ball hitting the edges of the window.
+
+The speed and direction of the ball at the start are editable. 
